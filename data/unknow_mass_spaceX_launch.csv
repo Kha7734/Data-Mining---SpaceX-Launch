@@ -1,0 +1,9 @@
+uct_time,launch_name,rocket_name,rocket_boosters,rocket_height,rocket_diameter,rocket_mass,launchpad_name,launchpad_region,launchpad_geo,landpad_name,landpad_type,landpad_region,landpad_geo,outcome,payloads_type,payloads_mass,payloads_orbit
+2016-04-08 20:43:00+00:00,CRS-8,Falcon 9,0,70.0,3.7,549054.0,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success,Satellite,,LEO
+2020-01-07 02:19:00+00:00,Starlink-2,Falcon 9,0,70.0,3.806944444444444,556404.5416666666,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success,Crew Dragon,,ISS
+2020-06-13 09:21:00+00:00,Starlink-8 & SkySat 16-18,Falcon 9,0,70.0,3.7,556404.5416666666,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success,Satellite,,SSO
+2020-11-25 02:13:00+00:00,Starlink-15 (v1.0),Falcon 9,0,70.0,3.7,549054.0,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success,Satellite,,LEO
+2020-12-19 14:00:00+00:00,NROL-108,Falcon 9,0,70.0,3.806944444444444,549054.0,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success,Satellite,,LEO
+2021-06-03 17:29:00+00:00,CRS-22 & IROSA,Falcon 9,0,70.0,3.7,549054.0,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success,Satellite,,SSO
+2021-11-13 12:40:00+00:00,Starlink 4-1 (v1.5),Falcon 9,0,70.0,3.7,556404.5416666666,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success,Dragon 2.0,,ISS
+2022-03-03 14:35:00+00:00,Starlink 4-9 (v1.5),Falcon 9,0,70.0,3.806944444444444,549054.0,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success,Crew Dragon,,ISS
